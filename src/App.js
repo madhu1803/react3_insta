@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar";
 import Post from "./Components/Post";
 import Sidebar from "./Components/Sidebar";
+import Logo from "./Components/Logo";
 
 export default class App extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class App extends Component {
               <Post />
             </div>
             <div class="col-lg-4 d-none d-lg-block">
+              <Logo />
               <Sidebar />
             </div>
           </div>
