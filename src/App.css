@@ -1,5 +1,10 @@
 @media (min-width: 992px) {
     .main-container {
-        margin: 10% 10%;
+        margin: 5% auto;
+        padding-left: 12%;
     }
+}
+
+.main-container {
+    margin: 5% auto;
 }

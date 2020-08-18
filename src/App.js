@@ -11,10 +11,10 @@ export default class App extends Component {
         <Navbar />
         <div className="container main-container">
           <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-8 col-md-12 col-sm-12">
               <Post />
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 d-none d-lg-block">
               <Sidebar />
             </div>
           </div>
