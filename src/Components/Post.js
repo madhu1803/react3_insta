@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Card, Button } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import Logo from "./Logo";
 import "./Css/Post.css";
 export default class Post extends Component {
