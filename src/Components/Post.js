@@ -14,11 +14,8 @@ export default class Post extends Component {
           />
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
-            <Card.Text>
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Text>Liked by mokkapostu and 64 others.</Card.Text>
+            <a href="#">View all 64 comments</a>
           </Card.Body>
         </Card>
       </div>
