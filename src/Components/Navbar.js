@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Navbar, Nav, Form, FormControl, Button } from "react-bootstrap";
+import { Navbar, Nav, Form, FormControl } from "react-bootstrap";
 import Logo from "./Logo";
 import { AiFillHome, AiOutlineCompass, AiOutlineHeart } from "react-icons/ai";
 import { FiSend } from "react-icons/fi";

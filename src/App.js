@@ -16,7 +16,11 @@ export default class App extends Component {
               <Post />
             </div>
             <div class="col-lg-4 d-none d-lg-block">
-              <Logo />
+              <Logo
+                text="madhumithaa"
+                img="https://images.unsplash.com/photo-1597556710385-91d065029a85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
+                subtext="madhu"
+              />
               <Sidebar />
             </div>
           </div>
